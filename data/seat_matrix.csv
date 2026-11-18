@@ -1,0 +1,113 @@
+college_id,college,state,type,course,quota,year,seats
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,2025,38
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,2025,128
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,2025,30
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,2025,85
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,2025,15
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,2025,42
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,2025,38
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,2025,170
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,2025,200
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,2025,50
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,2025,15
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,2025,170
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,2025,22
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,2025,170
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,2025,15
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,2025,60
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,2025,22
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,2025,128
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,2025,15
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,2025,170
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,2025,8
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,2025,60
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,2025,38
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,2025,212
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,2025,22
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,2025,128
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,2025,10
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,2025,60
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,2025,30
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,2025,170
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,2025,38
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,2025,212
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,2025,10
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,2025,42
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,2025,22
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,2025,170
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,2025,15
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,2025,85
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,2025,15
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,2025,85
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,2025,22
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,2025,212
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,2025,250
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,2025,100
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,2025,100
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,2025,38
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,2025,212
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,2025,15
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,2025,60
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,2025,30
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,2025,85
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,2025,30
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,2025,212
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,2025,10
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,2025,85
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,2025,15
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,2025,85
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,2025,38
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,2025,212
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,2025,10
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,2025,60
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,2025,100
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,2025,22
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,2025,212
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,2025,10
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,2025,60
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,2025,15
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,2025,128
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,2025,30
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,2025,212
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,2025,15
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,2025,85
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,2025,200
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,2025,38
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,2025,128
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,2025,15
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,2025,42
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,2025,30
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,2025,128
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,2025,22
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,2025,85
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,2025,15
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,2025,60
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,2025,200
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,2025,30
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,2025,212
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,2025,8
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,2025,42
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,2025,22
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,2025,212
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,2025,15
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,2025,128
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,2025,15
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,2025,60
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,2025,38
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,2025,128
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,2025,22
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,2025,212
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,2025,15
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,2025,85
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,2025,22
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,2025,170
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,2025,38
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,2025,212
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,2025,10
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,2025,42
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,2025,30
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,2025,212
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,2025,38
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,2025,170
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,2025,8
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,2025,85

@@ -1,0 +1,3 @@
+# Optional: dense embeddings (hybrid BM25 + vectors). Enable with USE_DENSE=1 before ingest/ask.
+numpy>=1.26
+sentence-transformers>=3.0

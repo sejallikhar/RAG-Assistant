@@ -1,0 +1,1681 @@
+college_id,college,state,type,course,quota,category,year,closing_rank
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,General,2023,12179
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,General,2024,12647
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,General,2025,13136
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,EWS,2023,15476
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,EWS,2024,15834
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,EWS,2025,16333
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,OBC,2023,20765
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,OBC,2024,22232
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,OBC,2025,22570
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,SC,2023,86010
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,SC,2024,90557
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,SC,2025,92145
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,ST,2023,133252
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,ST,2024,142202
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,All India,ST,2025,142849
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,General,2023,8385
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,General,2024,8889
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,General,2025,9077
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,EWS,2023,10680
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,EWS,2024,11113
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,EWS,2025,11293
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,OBC,2023,14226
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,OBC,2024,15359
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,OBC,2025,15364
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,SC,2023,60565
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,SC,2024,63817
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,SC,2025,62859
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,ST,2023,92674
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,ST,2024,99530
+SYN-001,Meridian Institute of Medical Sciences,Maharashtra,Government,MBBS,State,ST,2025,99354
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,General,2023,27087
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,General,2024,25267
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,General,2025,24800
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,EWS,2023,33214
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,EWS,2024,31074
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,EWS,2025,30791
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,OBC,2023,44899
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,OBC,2024,42575
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,OBC,2025,41786
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,SC,2023,187261
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,SC,2024,176736
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,SC,2025,169984
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,ST,2023,297130
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,ST,2024,275345
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,All India,ST,2025,267188
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,General,2023,19019
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,General,2024,17148
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,General,2025,17094
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,EWS,2023,23525
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,EWS,2024,21462
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,EWS,2025,21360
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,OBC,2023,31900
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,OBC,2024,30058
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,OBC,2025,28922
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,SC,2023,133171
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,SC,2024,123677
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,SC,2025,119201
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,ST,2023,207980
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,ST,2024,191932
+SYN-002,Kestrel Medical University,Karnataka,Government,MBBS,State,ST,2025,186682
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,General,2023,68262
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,General,2024,63082
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,General,2025,60986
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,EWS,2023,83849
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,EWS,2024,76878
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,EWS,2025,76958
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,OBC,2023,112085
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,OBC,2024,105253
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,OBC,2025,107118
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,SC,2023,465410
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,SC,2024,440451
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,SC,2025,431897
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,ST,2023,736019
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,ST,2024,696881
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,All India,ST,2025,693393
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,General,2023,47286
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,General,2024,43527
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,General,2025,42731
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,EWS,2023,58065
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,EWS,2024,53476
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,EWS,2025,54594
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,OBC,2023,78467
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,OBC,2024,73484
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,OBC,2025,72231
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,SC,2023,328570
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,SC,2024,309966
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,SC,2025,303250
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,ST,2023,507644
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,ST,2024,479203
+SYN-002,Kestrel Medical University,Karnataka,Government,BDS,State,ST,2025,482632
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,General,2023,4507
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,General,2024,4864
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,General,2025,4686
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,EWS,2023,5527
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,EWS,2024,6132
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,EWS,2025,5860
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,OBC,2023,7662
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,OBC,2024,8250
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,OBC,2025,8025
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,SC,2023,31535
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,SC,2024,33840
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,SC,2025,33729
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,ST,2023,48806
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,ST,2024,53588
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,All India,ST,2025,51552
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,General,2023,3097
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,General,2024,3401
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,General,2025,3310
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,EWS,2023,3996
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,EWS,2024,4300
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,EWS,2025,4063
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,OBC,2023,5369
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,OBC,2024,5762
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,OBC,2025,5546
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,SC,2023,22034
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,SC,2024,23672
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,SC,2025,22865
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,ST,2023,34364
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,ST,2024,36549
+SYN-003,Alder Medical College,Tamil Nadu,Government,MBBS,State,ST,2025,36094
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,General,2023,162459
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,General,2024,161390
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,General,2025,163865
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,EWS,2023,206812
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,EWS,2024,202959
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,EWS,2025,204428
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,OBC,2023,274501
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,OBC,2024,274182
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,OBC,2025,274103
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,SC,2023,1160533
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,SC,2024,1134417
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,SC,2025,1121146
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,ST,2023,1783983
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,ST,2024,1724360
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,MBBS,All India,ST,2025,1791762
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,General,2023,408190
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,General,2024,393550
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,General,2025,403800
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,EWS,2023,518592
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,EWS,2024,504724
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,EWS,2025,508052
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,OBC,2023,693066
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,OBC,2024,687920
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,OBC,2025,678389
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,SC,2023,2897978
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,SC,2024,2823826
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,SC,2025,2792601
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,ST,2023,4499478
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,ST,2024,4315066
+SYN-004,Brindle Institute of Medical Sciences,Delhi,Deemed,BDS,All India,ST,2025,4555674
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,General,2023,120956
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,General,2024,121533
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,General,2025,124890
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,EWS,2023,146813
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,EWS,2024,149028
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,EWS,2025,158965
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,OBC,2023,206951
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,OBC,2024,206557
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,OBC,2025,215779
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,SC,2023,841368
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,SC,2024,837028
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,SC,2025,863701
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,ST,2023,1307693
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,ST,2024,1355401
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,All India,ST,2025,1394097
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,General,2023,85198
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,General,2024,83913
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,General,2025,86798
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,EWS,2023,103160
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,EWS,2024,107311
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,EWS,2025,111280
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,OBC,2023,142028
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,OBC,2024,145023
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,OBC,2025,146991
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,SC,2023,597114
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,SC,2024,602952
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,SC,2025,625428
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,ST,2023,933927
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,ST,2024,948125
+SYN-005,Corvane Medical University,Uttar Pradesh,Private,MBBS,State,ST,2025,946111
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,General,2023,37430
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,General,2024,37833
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,General,2025,39895
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,EWS,2023,46700
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,EWS,2024,46981
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,EWS,2025,48857
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,OBC,2023,63427
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,OBC,2024,64241
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,OBC,2025,66121
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,SC,2023,258780
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,SC,2024,262575
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,SC,2025,282023
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,ST,2023,404684
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,ST,2024,422992
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,All India,ST,2025,442358
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,General,2023,25415
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,General,2024,26251
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,General,2025,27548
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,EWS,2023,32857
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,EWS,2024,33842
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,EWS,2025,34366
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,OBC,2023,44294
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,OBC,2024,44999
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,OBC,2025,48062
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,SC,2023,181622
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,SC,2024,189307
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,SC,2025,191179
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,ST,2023,290355
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,ST,2024,288587
+SYN-006,Dunmore Medical College,Rajasthan,Private,MBBS,State,ST,2025,310764
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,General,2023,90821
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,General,2024,95284
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,General,2025,98453
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,EWS,2023,116988
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,EWS,2024,118345
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,EWS,2025,126229
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,OBC,2023,154883
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,OBC,2024,163938
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,OBC,2025,166322
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,SC,2023,635906
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,SC,2024,662723
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,SC,2025,694004
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,ST,2023,1030309
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,ST,2024,1051896
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,All India,ST,2025,1108900
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,General,2023,65213
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,General,2024,66081
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,General,2025,68152
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,EWS,2023,81496
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,EWS,2024,82489
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,EWS,2025,86036
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,OBC,2023,111644
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,OBC,2024,113945
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,OBC,2025,116945
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,SC,2023,449938
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,SC,2024,463391
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,SC,2025,483521
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,ST,2023,706657
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,ST,2024,719968
+SYN-006,Dunmore Medical College,Rajasthan,Private,BDS,State,ST,2025,760369
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,General,2023,46242
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,General,2024,49308
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,General,2025,51609
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,EWS,2023,56938
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,EWS,2024,60774
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,EWS,2025,62932
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,OBC,2023,77392
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,OBC,2024,82263
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,OBC,2025,87612
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,SC,2023,323401
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,SC,2024,339209
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,SC,2025,358771
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,ST,2023,499292
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,ST,2024,533217
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,All India,ST,2025,574158
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,General,2023,32345
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,General,2024,33675
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,General,2025,36196
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,EWS,2023,40368
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,EWS,2024,41770
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,EWS,2025,45763
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,OBC,2023,54061
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,OBC,2024,57308
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,OBC,2025,61882
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,SC,2023,221815
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,SC,2024,233463
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,SC,2025,256595
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,ST,2023,355127
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,ST,2024,377666
+SYN-007,Elmsworth Institute of Medical Sciences,Gujarat,Private,MBBS,State,ST,2025,394858
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,General,2023,12967
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,General,2024,12341
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,General,2025,12617
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,EWS,2023,15842
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,EWS,2024,15614
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,EWS,2025,16083
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,OBC,2023,22169
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,OBC,2024,21402
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,OBC,2025,21775
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,SC,2023,88973
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,SC,2024,87844
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,SC,2025,89367
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,ST,2023,141204
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,ST,2024,136695
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,All India,ST,2025,141669
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,General,2023,8983
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,General,2024,8783
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,General,2025,8927
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,EWS,2023,11468
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,EWS,2024,10890
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,EWS,2025,11284
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,OBC,2023,15537
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,OBC,2024,14821
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,OBC,2025,15207
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,SC,2023,63002
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,SC,2024,61555
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,SC,2025,62190
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,ST,2023,100556
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,ST,2024,96398
+SYN-008,Fenwick Medical University,Kerala,Government,MBBS,State,ST,2025,97441
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,General,2023,32461
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,General,2024,31417
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,General,2025,31387
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,EWS,2023,40618
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,EWS,2024,38721
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,EWS,2025,39173
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,OBC,2023,54502
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,OBC,2024,53143
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,OBC,2025,53265
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,SC,2023,223485
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,SC,2024,220382
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,SC,2025,217962
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,ST,2023,348575
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,ST,2024,339359
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,All India,ST,2025,343518
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,General,2023,22104
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,General,2024,21617
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,General,2025,22206
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,EWS,2023,28026
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,EWS,2024,26803
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,EWS,2025,27622
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,OBC,2023,38863
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,OBC,2024,37009
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,OBC,2025,37981
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,SC,2023,159721
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,SC,2024,153493
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,SC,2025,154434
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,ST,2023,242568
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,ST,2024,237253
+SYN-008,Fenwick Medical University,Kerala,Government,BDS,State,ST,2025,246322
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,General,2023,12373
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,General,2024,11797
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,General,2025,11553
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,EWS,2023,15688
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,EWS,2024,14602
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,EWS,2025,14141
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,OBC,2023,20990
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,OBC,2024,19780
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,OBC,2025,19539
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,SC,2023,87509
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,SC,2024,82544
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,SC,2025,81004
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,ST,2023,138175
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,ST,2024,131031
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,All India,ST,2025,125753
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,General,2023,8680
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,General,2024,8234
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,General,2025,7859
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,EWS,2023,10779
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,EWS,2024,10376
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,EWS,2025,9862
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,OBC,2023,14560
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,OBC,2024,13812
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,OBC,2025,13561
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,SC,2023,60141
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,SC,2024,58137
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,SC,2025,55445
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,ST,2023,96843
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,ST,2024,89709
+SYN-009,Garland Medical College,Madhya Pradesh,Government,MBBS,State,ST,2025,89085
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,General,2023,93160
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,General,2024,98208
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,General,2025,102951
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,EWS,2023,118020
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,EWS,2024,123303
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,EWS,2025,127585
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,OBC,2023,162456
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,OBC,2024,168386
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,OBC,2025,174672
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,SC,2023,656906
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,SC,2024,673205
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,SC,2025,696706
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,ST,2023,1029224
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,ST,2024,1085896
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,All India,ST,2025,1113102
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,General,2023,66397
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,General,2024,67968
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,General,2025,70282
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,EWS,2023,83465
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,EWS,2024,87388
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,EWS,2025,89088
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,OBC,2023,114289
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,OBC,2024,115114
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,OBC,2025,119202
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,SC,2023,466896
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,SC,2024,488703
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,SC,2025,496070
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,ST,2023,743329
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,ST,2024,751244
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,MBBS,State,ST,2025,790907
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,General,2023,233438
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,General,2024,247002
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,General,2025,253616
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,EWS,2023,292105
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,EWS,2024,309756
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,EWS,2025,319835
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,OBC,2023,405312
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,OBC,2024,410410
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,OBC,2025,437267
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,SC,2023,1681047
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,SC,2024,1705444
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,SC,2025,1761264
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,ST,2023,2598592
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,ST,2024,2697106
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,All India,ST,2025,2758025
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,General,2023,168369
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,General,2024,168886
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,General,2025,179888
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,EWS,2023,208909
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,EWS,2024,217312
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,EWS,2025,222621
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,OBC,2023,281854
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,OBC,2024,294436
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,OBC,2025,305866
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,SC,2023,1152877
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,SC,2024,1215960
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,SC,2025,1238315
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,ST,2023,1827274
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,ST,2024,1882660
+SYN-010,Halcyon Institute of Medical Sciences,West Bengal,Private,BDS,State,ST,2025,1960911
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,General,2023,43406
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,General,2024,44028
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,General,2025,42872
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,EWS,2023,54163
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,EWS,2024,55491
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,EWS,2025,53203
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,OBC,2023,74527
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,OBC,2024,76125
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,OBC,2025,71169
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,SC,2023,305949
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,SC,2024,309183
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,SC,2025,294832
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,ST,2023,478094
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,ST,2024,484554
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,All India,ST,2025,459453
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,General,2023,30670
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,General,2024,31157
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,General,2025,29133
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,EWS,2023,37857
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,EWS,2024,38775
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,EWS,2025,36954
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,OBC,2023,51483
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,OBC,2024,52881
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,OBC,2025,50571
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,SC,2023,213769
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,SC,2024,213745
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,SC,2025,204786
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,ST,2023,335334
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,ST,2024,338982
+SYN-011,Ironwood Medical University,Maharashtra,Private,MBBS,State,ST,2025,326605
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,General,2023,89080
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,General,2024,84477
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,General,2025,82499
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,EWS,2023,112565
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,EWS,2024,104752
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,EWS,2025,104271
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,OBC,2023,150208
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,OBC,2024,142007
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,OBC,2025,138532
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,SC,2023,616549
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,SC,2024,581619
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,SC,2025,580047
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,ST,2023,991213
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,ST,2024,916408
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,All India,ST,2025,899871
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,General,2023,61864
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,General,2024,59272
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,General,2025,58524
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,EWS,2023,78330
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,EWS,2024,75245
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,EWS,2025,73365
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,OBC,2023,105253
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,OBC,2024,99844
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,OBC,2025,97688
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,SC,2023,440593
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,SC,2024,407250
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,SC,2025,398080
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,ST,2023,674412
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,ST,2024,644266
+SYN-012,Juniper Medical College,Karnataka,Private,MBBS,State,ST,2025,648455
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,General,2023,219394
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,General,2024,206816
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,General,2025,205078
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,EWS,2023,278435
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,EWS,2024,261984
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,EWS,2025,263393
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,OBC,2023,375241
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,OBC,2024,363771
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,OBC,2025,346238
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,SC,2023,1533430
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,SC,2024,1476030
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,SC,2025,1452501
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,ST,2023,2470602
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,ST,2024,2287919
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,All India,ST,2025,2303811
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,General,2023,153467
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,General,2024,146165
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,General,2025,145140
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,EWS,2023,194416
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,EWS,2024,185274
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,EWS,2025,181862
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,OBC,2023,268221
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,OBC,2024,249807
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,OBC,2025,250189
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,SC,2023,1083539
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,SC,2024,1037222
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,SC,2025,1010742
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,ST,2023,1721331
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,ST,2024,1595599
+SYN-012,Juniper Medical College,Karnataka,Private,BDS,State,ST,2025,1622159
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,General,2023,174063
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,General,2024,161421
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,General,2025,156903
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,EWS,2023,215123
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,EWS,2024,201361
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,EWS,2025,195833
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,OBC,2023,285761
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,OBC,2024,272137
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,OBC,2025,269320
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,SC,2023,1201499
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,SC,2024,1133761
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,SC,2025,1099229
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,ST,2023,1896582
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,ST,2024,1811214
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,All India,ST,2025,1742904
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,General,2023,121730
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,General,2024,115647
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,General,2025,111672
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,EWS,2023,150591
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,EWS,2024,145393
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,EWS,2025,138480
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,OBC,2023,203854
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,OBC,2024,195510
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,OBC,2025,191984
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,SC,2023,848852
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,SC,2024,786595
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,SC,2025,767420
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,ST,2023,1306575
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,ST,2024,1270162
+SYN-013,Kingsley Institute of Medical Sciences,Tamil Nadu,Private,MBBS,State,ST,2025,1225664
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,General,2023,39566
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,General,2024,37896
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,General,2025,34828
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,EWS,2023,49385
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,EWS,2024,46997
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,EWS,2025,43949
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,OBC,2023,67259
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,OBC,2024,64757
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,OBC,2025,60605
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,SC,2023,280246
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,SC,2024,266706
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,SC,2025,241060
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,ST,2023,431562
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,ST,2024,420289
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,All India,ST,2025,391700
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,General,2023,28319
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,General,2024,26743
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,General,2025,24345
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,EWS,2023,34067
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,EWS,2024,33541
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,EWS,2025,30679
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,OBC,2023,47485
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,OBC,2024,45904
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,OBC,2025,41240
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,SC,2023,195012
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,SC,2024,186926
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,SC,2025,171947
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,ST,2023,300412
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,ST,2024,290388
+SYN-014,Larkspur Medical University,Delhi,Private,MBBS,State,ST,2025,268490
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,General,2023,100576
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,General,2024,94213
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,General,2025,88437
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,EWS,2023,122897
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,EWS,2024,120685
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,EWS,2025,111072
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,OBC,2023,168906
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,OBC,2024,160969
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,OBC,2025,148081
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,SC,2023,689196
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,SC,2024,676500
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,SC,2025,611946
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,ST,2023,1091369
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,ST,2024,1063820
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,All India,ST,2025,971418
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,General,2023,69305
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,General,2024,65217
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,General,2025,61475
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,EWS,2023,87188
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,EWS,2024,82996
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,EWS,2025,76610
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,OBC,2023,115881
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,OBC,2024,111830
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,OBC,2025,102890
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,SC,2023,481752
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,SC,2024,471889
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,SC,2025,429748
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,ST,2023,749124
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,ST,2024,734212
+SYN-014,Larkspur Medical University,Delhi,Private,BDS,State,ST,2025,683821
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,General,2023,10589
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,General,2024,10588
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,General,2025,9853
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,EWS,2023,13202
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,EWS,2024,13468
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,EWS,2025,12494
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,OBC,2023,18223
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,OBC,2024,17688
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,OBC,2025,16938
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,SC,2023,75147
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,SC,2024,74604
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,SC,2025,68854
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,ST,2023,117026
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,ST,2024,117785
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,All India,ST,2025,110239
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,General,2023,7502
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,General,2024,7291
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,General,2025,6798
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,EWS,2023,9431
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,EWS,2024,9337
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,EWS,2025,8479
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,OBC,2023,12556
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,OBC,2024,12711
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,OBC,2025,11867
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,SC,2023,52269
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,SC,2024,52370
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,SC,2025,47732
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,ST,2023,81022
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,ST,2024,82096
+SYN-015,Marlow Medical College,Uttar Pradesh,Government,MBBS,State,ST,2025,76735
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,General,2023,171147
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,General,2024,178457
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,General,2025,173428
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,EWS,2023,209439
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,EWS,2024,225900
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,EWS,2025,215856
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,OBC,2023,291724
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,OBC,2024,308522
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,OBC,2025,300686
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,SC,2023,1168438
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,SC,2024,1246019
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,SC,2025,1232057
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,ST,2023,1848880
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,ST,2024,1952931
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,MBBS,All India,ST,2025,1906843
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,General,2023,419783
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,General,2024,450027
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,General,2025,439409
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,EWS,2023,537269
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,EWS,2024,558770
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,EWS,2025,532260
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,OBC,2023,716964
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,OBC,2024,762811
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,OBC,2025,748439
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,SC,2023,2996118
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,SC,2024,3122224
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,SC,2025,3040049
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,ST,2023,4630763
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,ST,2024,4961855
+SYN-016,Northgate Institute of Medical Sciences,Rajasthan,Deemed,BDS,All India,ST,2025,4755082
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,General,2023,195425
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,General,2024,188534
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,General,2025,205893
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,EWS,2023,237520
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,EWS,2024,240926
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,EWS,2025,253457
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,OBC,2023,320618
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,OBC,2024,323816
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,OBC,2025,348534
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,SC,2023,1344539
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,SC,2024,1366956
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,SC,2025,1432431
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,ST,2023,2142709
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,ST,2024,2108732
+SYN-017,Oakhurst Medical University,Gujarat,Deemed,MBBS,All India,ST,2025,2243277
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,General,2023,143744
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,General,2024,137994
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,General,2025,127987
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,EWS,2023,179627
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,EWS,2024,168424
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,EWS,2025,164444
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,OBC,2023,249557
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,OBC,2024,234771
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,OBC,2025,215938
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,SC,2023,1003423
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,SC,2024,951192
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,SC,2025,886569
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,ST,2023,1586908
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,ST,2024,1480063
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,All India,ST,2025,1411896
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,General,2023,100258
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,General,2024,96008
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,General,2025,90598
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,EWS,2023,128612
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,EWS,2024,118278
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,EWS,2025,111047
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,OBC,2023,175454
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,OBC,2024,163791
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,OBC,2025,152019
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,SC,2023,723652
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,SC,2024,661637
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,SC,2025,631534
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,ST,2023,1107686
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,ST,2024,1044449
+SYN-018,Pinecrest Medical College,Kerala,Private,MBBS,State,ST,2025,974449
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,General,2023,369041
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,General,2024,344891
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,General,2025,318297
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,EWS,2023,452957
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,EWS,2024,425429
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,EWS,2025,404804
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,OBC,2023,620893
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,OBC,2024,580417
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,OBC,2025,543127
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,SC,2023,2577605
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,SC,2024,2368367
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,SC,2025,2248568
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,ST,2023,3992654
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,ST,2024,3727443
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,All India,ST,2025,3560050
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,General,2023,252173
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,General,2024,241632
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,General,2025,221579
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,EWS,2023,322007
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,EWS,2024,298402
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,EWS,2025,276817
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,OBC,2023,438534
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,OBC,2024,412062
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,OBC,2025,391303
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,SC,2023,1808973
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,SC,2024,1694502
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,SC,2025,1602344
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,ST,2023,2841812
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,ST,2024,2666014
+SYN-018,Pinecrest Medical College,Kerala,Private,BDS,State,ST,2025,2458061
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,General,2023,24532
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,General,2024,24744
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,General,2025,23863
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,EWS,2023,31331
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,EWS,2024,31653
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,EWS,2025,30347
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,OBC,2023,41566
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,OBC,2024,41907
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,OBC,2025,41185
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,SC,2023,170477
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,SC,2024,177407
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,SC,2025,165575
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,ST,2023,271446
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,ST,2024,271537
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,All India,ST,2025,269483
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,General,2023,17540
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,General,2024,17311
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,General,2025,16624
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,EWS,2023,21744
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,EWS,2024,22336
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,EWS,2025,21117
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,OBC,2023,30013
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,OBC,2024,30209
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,OBC,2025,28404
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,SC,2023,123153
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,SC,2024,122678
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,SC,2025,119555
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,ST,2023,192929
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,ST,2024,191676
+SYN-019,Quillon Institute of Medical Sciences,Madhya Pradesh,Government,MBBS,State,ST,2025,182740
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,General,2023,175684
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,General,2024,179492
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,General,2025,181131
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,EWS,2023,224805
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,EWS,2024,224483
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,EWS,2025,227371
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,OBC,2023,306708
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,OBC,2024,297939
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,OBC,2025,307080
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,SC,2023,1223455
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,SC,2024,1235232
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,SC,2025,1247652
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,ST,2023,1974250
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,ST,2024,1951605
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,All India,ST,2025,1970793
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,General,2023,122817
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,General,2024,122030
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,General,2025,122617
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,EWS,2023,158361
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,EWS,2024,154557
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,EWS,2025,158834
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,OBC,2023,209748
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,OBC,2024,206019
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,OBC,2025,215238
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,SC,2023,887703
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,SC,2024,856568
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,SC,2025,871730
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,ST,2023,1352710
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,ST,2024,1380990
+SYN-020,Ravensdale Medical University,West Bengal,Private,MBBS,State,ST,2025,1364145
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,General,2023,438770
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,General,2024,435837
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,General,2025,447068
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,EWS,2023,554535
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,EWS,2024,547796
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,EWS,2025,568027
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,OBC,2023,763495
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,OBC,2024,750071
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,OBC,2025,761527
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,SC,2023,3147561
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,SC,2024,3131108
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,SC,2025,3144146
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,ST,2023,4967165
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,ST,2024,4868026
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,All India,ST,2025,4996609
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,General,2023,306098
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,General,2024,306760
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,General,2025,311771
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,EWS,2023,396938
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,EWS,2024,390927
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,EWS,2025,384338
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,OBC,2023,534217
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,OBC,2024,525139
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,OBC,2025,541366
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,SC,2023,2171158
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,SC,2024,2149704
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,SC,2025,2160208
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,ST,2023,3379358
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,ST,2024,3439147
+SYN-020,Ravensdale Medical University,West Bengal,Private,BDS,State,ST,2025,3431035
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,General,2023,118514
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,General,2024,115150
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,General,2025,125956
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,EWS,2023,147175
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,EWS,2024,142185
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,EWS,2025,157555
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,OBC,2023,206161
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,OBC,2024,192373
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,OBC,2025,212938
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,SC,2023,841085
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,SC,2024,804344
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,SC,2025,876221
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,ST,2023,1304760
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,ST,2024,1273441
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,All India,ST,2025,1375591
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,General,2023,83179
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,General,2024,81709
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,General,2025,88226
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,EWS,2023,105077
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,EWS,2024,101393
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,EWS,2025,106485
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,OBC,2023,144766
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,OBC,2024,134261
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,OBC,2025,146281
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,SC,2023,594263
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,SC,2024,563097
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,SC,2025,594036
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,ST,2023,914527
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,ST,2024,868568
+SYN-021,Stonebridge Medical College,Maharashtra,Private,MBBS,State,ST,2025,948914
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,General,2023,160127
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,General,2024,158254
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,General,2025,166721
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,EWS,2023,198316
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,EWS,2024,194909
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,EWS,2025,206141
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,OBC,2023,274370
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,OBC,2024,264369
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,OBC,2025,283484
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,SC,2023,1126277
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,SC,2024,1109783
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,SC,2025,1152273
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,ST,2023,1776634
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,ST,2024,1711840
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,All India,ST,2025,1812235
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,General,2023,110671
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,General,2024,109144
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,General,2025,116402
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,EWS,2023,138435
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,EWS,2024,140818
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,EWS,2025,143250
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,OBC,2023,186043
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,OBC,2024,185683
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,OBC,2025,197192
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,SC,2023,779641
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,SC,2024,782769
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,SC,2025,804098
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,ST,2023,1225738
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,ST,2024,1209708
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,MBBS,State,ST,2025,1269913
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,General,2023,390067
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,General,2024,399208
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,General,2025,418035
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,EWS,2023,498519
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,EWS,2024,500340
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,EWS,2025,519824
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,OBC,2023,666236
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,OBC,2024,671915
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,OBC,2025,693160
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,SC,2023,2757079
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,SC,2024,2766922
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,SC,2025,2875830
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,ST,2023,4290020
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,ST,2024,4343362
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,All India,ST,2025,4564345
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,General,2023,282531
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,General,2024,279279
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,General,2025,288256
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,EWS,2023,341198
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,EWS,2024,340763
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,EWS,2025,359708
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,OBC,2023,476358
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,OBC,2024,468853
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,OBC,2025,483282
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,SC,2023,1908281
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,SC,2024,1975897
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,SC,2025,2024852
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,ST,2023,3073212
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,ST,2024,3038408
+SYN-022,Thornfield Institute of Medical Sciences,Karnataka,Private,BDS,State,ST,2025,3221513
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,General,2023,49461
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,General,2024,46443
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,General,2025,44347
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,EWS,2023,61173
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,EWS,2024,57203
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,EWS,2025,54583
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,OBC,2023,81911
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,OBC,2024,78751
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,OBC,2025,73187
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,SC,2023,335854
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,SC,2024,326701
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,SC,2025,303103
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,ST,2023,541805
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,ST,2024,507892
+SYN-023,Umberlea Medical University,Tamil Nadu,Deemed,MBBS,All India,ST,2025,484726
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,General,2023,136257
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,General,2024,138628
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,General,2025,136265
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,EWS,2023,166387
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,EWS,2024,170637
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,EWS,2025,170798
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,OBC,2023,234521
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,OBC,2024,232794
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,OBC,2025,226943
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,SC,2023,936110
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,SC,2024,970380
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,SC,2025,930236
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,ST,2023,1506710
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,ST,2024,1543944
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,All India,ST,2025,1463118
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,General,2023,94496
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,General,2024,96252
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,General,2025,93356
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,EWS,2023,117813
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,EWS,2024,119692
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,EWS,2025,120405
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,OBC,2023,162064
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,OBC,2024,166447
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,OBC,2025,158694
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,SC,2023,671529
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,SC,2024,662861
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,SC,2025,651483
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,ST,2023,1042251
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,ST,2024,1057518
+SYN-024,Vantage Medical College,Delhi,Private,MBBS,State,ST,2025,1045644
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,General,2023,336088
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,General,2024,347909
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,General,2025,332825
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,EWS,2023,422768
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,EWS,2024,426764
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,EWS,2025,425576
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,OBC,2023,576272
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,OBC,2024,589389
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,OBC,2025,564230
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,SC,2023,2364209
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,SC,2024,2420355
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,SC,2025,2319730
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,ST,2023,3701180
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,ST,2024,3744606
+SYN-024,Vantage Medical College,Delhi,Private,BDS,All India,ST,2025,3664560
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,General,2023,235416
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,General,2024,237413
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,General,2025,236608
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,EWS,2023,295946
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,EWS,2024,296877
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,EWS,2025,296177
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,OBC,2023,399249
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,OBC,2024,410795
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,OBC,2025,404980
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,SC,2023,1652214
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,SC,2024,1680596
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,SC,2025,1672468
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,ST,2023,2604908
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,ST,2024,2647586
+SYN-024,Vantage Medical College,Delhi,Private,BDS,State,ST,2025,2559010
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,General,2023,148144
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,General,2024,148820
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,General,2025,160905
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,EWS,2023,184012
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,EWS,2024,182625
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,EWS,2025,195637
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,OBC,2023,249323
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,OBC,2024,255293
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,OBC,2025,272547
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,SC,2023,1047603
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,SC,2024,1056128
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,SC,2025,1098575
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,ST,2023,1647043
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,ST,2024,1615466
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,All India,ST,2025,1761489
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,General,2023,102956
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,General,2024,103081
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,General,2025,110981
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,EWS,2023,128371
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,EWS,2024,128112
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,EWS,2025,139681
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,OBC,2023,173045
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,OBC,2024,176647
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,OBC,2025,192969
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,SC,2023,719350
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,SC,2024,733695
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,SC,2025,791859
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,ST,2023,1151590
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,ST,2024,1130504
+SYN-025,Westmere Institute of Medical Sciences,Uttar Pradesh,Private,MBBS,State,ST,2025,1211298
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,General,2023,28232
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,General,2024,30206
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,General,2025,31841
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,EWS,2023,35150
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,EWS,2024,38980
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,EWS,2025,39595
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,OBC,2023,48560
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,OBC,2024,52205
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,OBC,2025,53745
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,SC,2023,201693
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,SC,2024,217694
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,SC,2025,221864
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,ST,2023,320790
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,ST,2024,334558
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,All India,ST,2025,353191
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,General,2023,19745
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,General,2024,21071
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,General,2025,22009
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,EWS,2023,24833
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,EWS,2024,26561
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,EWS,2025,27086
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,OBC,2023,34051
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,OBC,2024,36174
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,OBC,2025,37430
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,SC,2023,137685
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,SC,2024,152083
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,SC,2025,151807
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,ST,2023,223475
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,ST,2024,239211
+SYN-026,Yarrowby Medical University,Rajasthan,Government,MBBS,State,ST,2025,243778
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,General,2023,71408
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,General,2024,76744
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,General,2025,79706
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,EWS,2023,90809
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,EWS,2024,95529
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,EWS,2025,99703
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,OBC,2023,122314
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,OBC,2024,129252
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,OBC,2025,133806
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,SC,2023,493614
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,SC,2024,526648
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,SC,2025,542758
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,ST,2023,799224
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,ST,2024,837077
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,All India,ST,2025,874080
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,General,2023,50353
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,General,2024,52616
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,General,2025,55608
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,EWS,2023,63805
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,EWS,2024,67070
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,EWS,2025,69241
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,OBC,2023,84640
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,OBC,2024,92651
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,OBC,2025,93334
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,SC,2023,354271
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,SC,2024,377915
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,SC,2025,379141
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,ST,2023,553548
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,ST,2024,585747
+SYN-026,Yarrowby Medical University,Rajasthan,Government,BDS,State,ST,2025,602522
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,General,2023,50386
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,General,2024,51039
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,General,2025,52252
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,EWS,2023,62928
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,EWS,2024,65400
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,EWS,2025,65702
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,OBC,2023,84482
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,OBC,2024,87812
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,OBC,2025,86777
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,SC,2023,348099
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,SC,2024,367127
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,SC,2025,365395
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,ST,2023,547941
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,ST,2024,568472
+SYN-027,Ashgrove Medical College,Gujarat,Deemed,MBBS,All India,ST,2025,579649
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,General,2023,95170
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,General,2024,99595
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,General,2025,95832
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,EWS,2023,116916
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,EWS,2024,124787
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,EWS,2025,122775
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,OBC,2023,164618
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,OBC,2024,171122
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,OBC,2025,161372
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,SC,2023,669154
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,SC,2024,693420
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,SC,2025,662442
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,ST,2023,1036421
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,ST,2024,1108948
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,All India,ST,2025,1054715
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,General,2023,65643
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,General,2024,70705
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,General,2025,66614
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,EWS,2023,82399
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,EWS,2024,87647
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,EWS,2025,84458
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,OBC,2023,113165
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,OBC,2024,118966
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,OBC,2025,114950
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,SC,2023,468249
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,SC,2024,492535
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,SC,2025,475053
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,ST,2023,733928
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,ST,2024,751958
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,MBBS,State,ST,2025,733519
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,General,2023,239465
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,General,2024,243047
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,General,2025,239926
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,EWS,2023,299312
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,EWS,2024,315270
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,EWS,2025,302878
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,OBC,2023,407594
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,OBC,2024,425640
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,OBC,2025,405736
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,SC,2023,1644220
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,SC,2024,1765236
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,SC,2025,1707855
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,ST,2023,2653206
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,ST,2024,2689895
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,All India,ST,2025,2672513
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,General,2023,169375
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,General,2024,173031
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,General,2025,167391
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,EWS,2023,206713
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,EWS,2024,216858
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,EWS,2025,215018
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,OBC,2023,286045
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,OBC,2024,298154
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,OBC,2025,282918
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,SC,2023,1151458
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,SC,2024,1219924
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,SC,2025,1199742
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,ST,2023,1831698
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,ST,2024,1875955
+SYN-028,Bexley Institute of Medical Sciences,Kerala,Private,BDS,State,ST,2025,1883211
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,General,2023,9931
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,General,2024,10017
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,General,2025,9750
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,EWS,2023,12724
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,EWS,2024,12216
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,EWS,2025,12268
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,OBC,2023,17333
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,OBC,2024,16664
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,OBC,2025,16694
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,SC,2023,69697
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,SC,2024,68073
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,SC,2025,67643
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,ST,2023,110196
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,ST,2024,107885
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,All India,ST,2025,110370
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,General,2023,6935
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,General,2024,6888
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,General,2025,6777
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,EWS,2023,8840
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,EWS,2024,8616
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,EWS,2025,8487
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,OBC,2023,11700
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,OBC,2024,11993
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,OBC,2025,11696
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,SC,2023,49733
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,SC,2024,49074
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,SC,2025,48152
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,ST,2023,77487
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,ST,2024,77565
+SYN-029,Caldwell Medical University,Madhya Pradesh,Government,MBBS,State,ST,2025,74303
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,General,2023,24383
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,General,2024,25558
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,General,2025,24765
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,EWS,2023,30110
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,EWS,2024,31389
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,EWS,2025,30418
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,OBC,2023,40578
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,OBC,2024,42579
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,OBC,2025,41588
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,SC,2023,170407
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,SC,2024,178249
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,SC,2025,169122
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,ST,2023,268960
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,ST,2024,281673
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,All India,ST,2025,264743
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,General,2023,16990
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,General,2024,17706
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,General,2025,16837
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,EWS,2023,20929
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,EWS,2024,22383
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,EWS,2025,21206
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,OBC,2023,28825
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,OBC,2024,30383
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,OBC,2025,29042
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,SC,2023,120037
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,SC,2024,125209
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,SC,2025,121635
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,ST,2023,185326
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,ST,2024,192643
+SYN-030,Delmont Medical College,West Bengal,Government,MBBS,State,ST,2025,191798
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,General,2023,60479
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,General,2024,64997
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,General,2025,60751
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,EWS,2023,73736
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,EWS,2024,80632
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,EWS,2025,76218
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,OBC,2023,103212
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,OBC,2024,108965
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,OBC,2025,105437
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,SC,2023,425029
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,SC,2024,443399
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,SC,2025,421662
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,ST,2023,662895
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,ST,2024,710265
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,All India,ST,2025,666141
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,General,2023,42047
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,General,2024,44988
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,General,2025,43175
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,EWS,2023,53289
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,EWS,2024,54823
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,EWS,2025,54279
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,OBC,2023,71460
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,OBC,2024,75259
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,OBC,2025,71681
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,SC,2023,291204
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,SC,2024,306747
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,SC,2025,305854
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,ST,2023,463459
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,ST,2024,500635
+SYN-030,Delmont Medical College,West Bengal,Government,BDS,State,ST,2025,473252
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,General,2023,148422
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,General,2024,158489
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,General,2025,156407
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,EWS,2023,191769
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,EWS,2024,193392
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,EWS,2025,198425
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,OBC,2023,254750
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,OBC,2024,271065
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,OBC,2025,267511
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,SC,2023,1054342
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,SC,2024,1100285
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,SC,2025,1124463
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,ST,2023,1652765
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,ST,2024,1711486
+SYN-031,Everhart Institute of Medical Sciences,Maharashtra,Deemed,MBBS,All India,ST,2025,1748660
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,General,2023,53792
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,General,2024,56073
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,General,2025,54876
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,EWS,2023,66718
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,EWS,2024,68858
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,EWS,2025,68056
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,OBC,2023,91079
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,OBC,2024,95424
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,OBC,2025,91520
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,SC,2023,364039
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,SC,2024,394733
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,SC,2025,376622
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,ST,2023,584222
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,ST,2024,614505
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,All India,ST,2025,600978
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,General,2023,36947
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,General,2024,39577
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,General,2025,38581
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,EWS,2023,46495
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,EWS,2024,48898
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,EWS,2025,47710
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,OBC,2023,63678
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,OBC,2024,65495
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,OBC,2025,64967
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,SC,2023,258208
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,SC,2024,274689
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,SC,2025,268348
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,ST,2023,401745
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,ST,2024,423338
+SYN-032,Foxmoor Medical University,Karnataka,Private,MBBS,State,ST,2025,423339
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,General,2023,129774
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,General,2024,137650
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,General,2025,137067
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,EWS,2023,164410
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,EWS,2024,174272
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,EWS,2025,169902
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,OBC,2023,225745
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,OBC,2024,239832
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,OBC,2025,234584
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,SC,2023,920906
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,SC,2024,990838
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,SC,2025,951705
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,ST,2023,1456299
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,ST,2024,1534533
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,All India,ST,2025,1500048
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,General,2023,94270
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,General,2024,96193
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,General,2025,93698
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,EWS,2023,115788
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,EWS,2024,124592
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,EWS,2025,116799
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,OBC,2023,159090
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,OBC,2024,168049
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,OBC,2025,159471
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,SC,2023,650851
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,SC,2024,691690
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,SC,2025,677478
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,ST,2023,1005998
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,ST,2024,1062856
+SYN-032,Foxmoor Medical University,Karnataka,Private,BDS,State,ST,2025,1026005
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,General,2023,21677
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,General,2024,21316
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,General,2025,19999
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,EWS,2023,26865
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,EWS,2024,27073
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,EWS,2025,25234
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,OBC,2023,36052
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,OBC,2024,35685
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,OBC,2025,34626
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,SC,2023,151697
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,SC,2024,151644
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,SC,2025,143544
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,ST,2023,238719
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,ST,2024,236289
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,All India,ST,2025,226302
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,General,2023,14710
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,General,2024,14775
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,General,2025,14028
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,EWS,2023,18887
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,EWS,2024,18339
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,EWS,2025,17831
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,OBC,2023,25258
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,OBC,2024,25731
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,OBC,2025,24247
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,SC,2023,105019
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,SC,2024,102947
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,SC,2025,98877
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,ST,2023,167578
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,ST,2024,165936
+SYN-033,Glenrock Medical College,Tamil Nadu,Government,MBBS,State,ST,2025,156733
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,General,2023,12816
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,General,2024,12959
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,General,2025,13517
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,EWS,2023,15905
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,EWS,2024,16446
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,EWS,2025,16703
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,OBC,2023,21375
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,OBC,2024,22751
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,OBC,2025,22806
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,SC,2023,89059
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,SC,2024,91110
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,SC,2025,94597
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,ST,2023,138797
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,ST,2024,147400
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,All India,ST,2025,143336
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,General,2023,8863
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,General,2024,9156
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,General,2025,9161
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,EWS,2023,11263
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,EWS,2024,11409
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,EWS,2025,11816
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,OBC,2023,15067
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,OBC,2024,15553
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,OBC,2025,15521
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,SC,2023,61242
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,SC,2024,65778
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,SC,2025,64419
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,ST,2023,97908
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,ST,2024,101977
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,MBBS,State,ST,2025,100491
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,General,2023,31746
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,General,2024,33065
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,General,2025,32730
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,EWS,2023,39734
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,EWS,2024,41861
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,EWS,2025,41188
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,OBC,2023,54683
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,OBC,2024,55001
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,OBC,2025,57203
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,SC,2023,217701
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,SC,2024,234849
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,SC,2025,234680
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,ST,2023,344655
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,ST,2024,358350
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,All India,ST,2025,365881
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,General,2023,22264
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,General,2024,23069
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,General,2025,23334
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,EWS,2023,27443
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,EWS,2024,29365
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,EWS,2025,29001
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,OBC,2023,38098
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,OBC,2024,39511
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,OBC,2025,39148
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,SC,2023,152340
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,SC,2024,158654
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,SC,2025,162122
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,ST,2023,243398
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,ST,2024,250776
+SYN-034,Hartwell Institute of Medical Sciences,Delhi,Government,BDS,State,ST,2025,256469
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,General,2023,26289
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,General,2024,27466
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,General,2025,30094
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,EWS,2023,32192
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,EWS,2024,34442
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,EWS,2025,37282
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,OBC,2023,44080
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,OBC,2024,46291
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,OBC,2025,49662
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,SC,2023,178659
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,SC,2024,193268
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,SC,2025,203658
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,ST,2023,279930
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,ST,2024,309742
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,All India,ST,2025,329427
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,General,2023,17957
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,General,2024,19649
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,General,2025,20381
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,EWS,2023,22518
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,EWS,2024,24283
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,EWS,2025,25635
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,OBC,2023,31162
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,OBC,2024,32920
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,OBC,2025,35147
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,SC,2023,126972
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,SC,2024,134523
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,SC,2025,141879
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,ST,2023,203091
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,ST,2024,213071
+SYN-035,Islington Medical University,Uttar Pradesh,Government,MBBS,State,ST,2025,231531
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,General,2023,20093
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,General,2024,19111
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,General,2025,17809
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,EWS,2023,25130
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,EWS,2024,24662
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,EWS,2025,22613
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,OBC,2023,33752
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,OBC,2024,32435
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,OBC,2025,30063
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,SC,2023,138129
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,SC,2024,134954
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,SC,2025,125088
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,ST,2023,219434
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,ST,2024,210194
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,All India,ST,2025,194080
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,General,2023,13941
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,General,2024,13509
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,General,2025,12519
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,EWS,2023,17488
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,EWS,2024,17064
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,EWS,2025,15925
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,OBC,2023,23948
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,OBC,2024,23263
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,OBC,2025,21062
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,SC,2023,96544
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,SC,2024,94883
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,SC,2025,89749
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,ST,2023,154557
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,ST,2024,149056
+SYN-036,Jasperton Medical College,Rajasthan,Government,MBBS,State,ST,2025,136371
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,General,2023,50065
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,General,2024,47771
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,General,2025,44263
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,EWS,2023,62163
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,EWS,2024,60757
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,EWS,2025,56048
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,OBC,2023,85472
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,OBC,2024,82767
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,OBC,2025,75831
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,SC,2023,352040
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,SC,2024,335997
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,SC,2025,320579
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,ST,2023,555987
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,ST,2024,530922
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,All India,ST,2025,490837
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,General,2023,35091
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,General,2024,34344
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,General,2025,31189
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,EWS,2023,44360
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,EWS,2024,42350
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,EWS,2025,39574
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,OBC,2023,60721
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,OBC,2024,58095
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,OBC,2025,54084
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,SC,2023,247530
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,SC,2024,240210
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,SC,2025,215919
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,ST,2023,385109
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,ST,2024,381654
+SYN-036,Jasperton Medical College,Rajasthan,Government,BDS,State,ST,2025,349763
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,General,2023,12332
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,General,2024,13154
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,General,2025,13777
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,EWS,2023,15165
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,EWS,2024,16383
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,EWS,2025,17246
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,OBC,2023,21185
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,OBC,2024,21854
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,OBC,2025,23511
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,SC,2023,84446
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,SC,2024,92909
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,SC,2025,94616
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,ST,2023,132632
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,ST,2024,142360
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,All India,ST,2025,148934
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,General,2023,8575
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,General,2024,9228
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,General,2025,9773
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,EWS,2023,10918
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,EWS,2024,11517
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,EWS,2025,11804
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,OBC,2023,14418
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,OBC,2024,15335
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,OBC,2025,16225
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,SC,2023,60632
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,SC,2024,63956
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,SC,2025,66780
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,ST,2023,93426
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,ST,2024,102055
+SYN-037,Kelvin Institute of Medical Sciences,Gujarat,Government,MBBS,State,ST,2025,105061
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,General,2023,10550
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,General,2024,10187
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,General,2025,9693
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,EWS,2023,13254
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,EWS,2024,12431
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,EWS,2025,12021
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,OBC,2023,18135
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,OBC,2024,16916
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,OBC,2025,16227
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,SC,2023,74627
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,SC,2024,71631
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,SC,2025,68092
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,ST,2023,116180
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,ST,2024,111272
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,All India,ST,2025,105807
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,General,2023,7289
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,General,2024,7149
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,General,2025,6816
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,EWS,2023,9083
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,EWS,2024,8652
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,EWS,2025,8480
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,OBC,2023,12406
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,OBC,2024,12176
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,OBC,2025,11597
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,SC,2023,52266
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,SC,2024,49792
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,SC,2025,46758
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,ST,2023,79980
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,ST,2024,77965
+SYN-038,Lockridge Medical University,Kerala,Government,MBBS,State,ST,2025,73642
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,General,2023,26353
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,General,2024,25347
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,General,2025,23782
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,EWS,2023,33167
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,EWS,2024,31086
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,EWS,2025,30147
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,OBC,2023,44116
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,OBC,2024,42000
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,OBC,2025,41292
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,SC,2023,181418
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,SC,2024,172530
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,SC,2025,171133
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,ST,2023,284929
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,ST,2024,273130
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,All India,ST,2025,260402
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,General,2023,18492
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,General,2024,17288
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,General,2025,17023
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,EWS,2023,22463
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,EWS,2024,22005
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,EWS,2025,21412
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,OBC,2023,31050
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,OBC,2024,30387
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,OBC,2025,29062
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,SC,2023,128215
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,SC,2024,121503
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,SC,2025,120070
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,ST,2023,200220
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,ST,2024,194384
+SYN-038,Lockridge Medical University,Kerala,Government,BDS,State,ST,2025,188266
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,General,2023,19107
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,General,2024,20131
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,General,2025,19181
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,EWS,2023,24071
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,EWS,2024,24966
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,EWS,2025,24150
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,OBC,2023,32179
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,OBC,2024,35061
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,OBC,2025,32861
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,SC,2023,130471
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,SC,2024,144359
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,SC,2025,134532
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,ST,2023,206280
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,ST,2024,226069
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,All India,ST,2025,212113
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,General,2023,13494
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,General,2024,13965
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,General,2025,13336
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,EWS,2023,16356
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,EWS,2024,18149
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,EWS,2025,16482
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,OBC,2023,23041
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,OBC,2024,24257
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,OBC,2025,22605
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,SC,2023,94688
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,SC,2024,101111
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,SC,2025,92981
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,ST,2023,144434
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,ST,2024,154260
+SYN-039,Montrose Medical College,Madhya Pradesh,Government,MBBS,State,ST,2025,144325
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,General,2023,16421
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,General,2024,17299
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,General,2025,18102
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,EWS,2023,20272
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,EWS,2024,21261
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,EWS,2025,23237
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,OBC,2023,27410
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,OBC,2024,29283
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,OBC,2025,31558
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,SC,2023,113836
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,SC,2024,119699
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,SC,2025,128337
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,ST,2023,178852
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,ST,2024,185590
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,All India,ST,2025,206983
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,General,2023,11346
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,General,2024,11884
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,General,2025,12799
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,EWS,2023,14132
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,EWS,2024,15158
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,EWS,2025,16447
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,OBC,2023,19272
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,OBC,2024,20590
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,OBC,2025,21539
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,SC,2023,80479
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,SC,2024,84680
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,SC,2025,88874
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,ST,2023,123775
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,ST,2024,131030
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,MBBS,State,ST,2025,141611
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,General,2023,41121
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,General,2024,43111
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,General,2025,46966
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,EWS,2023,50742
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,EWS,2024,52993
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,EWS,2025,58746
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,OBC,2023,69316
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,OBC,2024,72754
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,OBC,2025,79993
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,SC,2023,284226
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,SC,2024,302539
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,SC,2025,328401
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,ST,2023,453531
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,ST,2024,477305
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,All India,ST,2025,514288
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,General,2023,28773
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,General,2024,30126
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,General,2025,32678
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,EWS,2023,35745
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,EWS,2024,37557
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,EWS,2025,40160
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,OBC,2023,49374
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,OBC,2024,50228
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,OBC,2025,55644
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,SC,2023,203192
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,SC,2024,207577
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,SC,2025,226478
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,ST,2023,310020
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,ST,2024,334807
+SYN-040,Nettlefield Institute of Medical Sciences,West Bengal,Government,BDS,State,ST,2025,354546

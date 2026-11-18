@@ -1,0 +1,18 @@
+# NOT executed by the author on a GPU host; review before relying on it (see README "Known gaps").
+services:
+  ollama:
+    image: ollama/ollama:latest
+    volumes: [ollama_models:/root/.ollama]
+    ports: ["127.0.0.1:11434:11434"]      # bound to localhost only: nothing is exposed to the network
+    deploy:
+      resources:
+        reservations:
+          devices: [{driver: nvidia, count: 1, capabilities: [gpu]}]
+  app:
+    build: .
+    depends_on: [ollama]
+    stdin_open: true
+    tty: true
+    volumes: ["./logs:/app/logs"]
+volumes:
+  ollama_models:
